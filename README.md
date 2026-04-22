@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 🔭 I’m currently working on<br>Building full-stack web applications and strengthening my foundation in Data Structures and Algorithms, while also exploring projects that combine AI with web development.<br><br>🤝 I’m looking to collaborate on<br>Full-stack projects, hackathons, and innovative ideas in AI, Machine Learning, or web-based solutions.<br><br>🆘 I’m looking for help with<br>Advanced backend development, system design, and writing optimized solutions for complex DSA problems.<br><br>🌱 I’m currently learning<br>Full Stack Web Development (MERN Stack) and Data Structures & Algorithms, alongside improving my problem-solving skills.<br><br>💬 Ask me about<br>Python, Machine Learning basics, hackathons, CTF competitions, and getting started with tech as a beginner.<br><br>⚡ Fun fact<br>I enjoy turning ideas into real projects—whether it's building a website for startup founders or solving challenges in hackathons.
 
 
@@ -12,14 +13,12 @@
 ![](https://streak-stats.demolab.com/?user=pranav4141&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranav4141&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pranav4141&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranav4141&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=pranav4141&icon=0&color=0)](https://visitcount.itsvg.in)
+# 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=pranav4141&label=Profile%20Views&color=blue&style=flat">
